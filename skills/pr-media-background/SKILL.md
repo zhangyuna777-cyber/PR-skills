@@ -89,3 +89,91 @@ metadata:
 | --- | --- | --- | --- | --- |
 
 分别评价记者与媒体的样本。只在多篇、可核验内容支持时讨论持续性偏见迹象；将事实报道、合理质疑、政策批评、对企业的批评和针对中国群体的泛化敌意区分开。若样本不足，明确写“无法判断”。
+
+
+## English version
+
+# PR Journalist and Media Background Research
+
+Use this skill for PR outreach, interviews, test drives, launches, technical briefings, commissioned pitches, press distribution, or decisions about long-term media relations. Research journalists, editors, columnists, and news outlets only; do not screen KOLs or influencers.
+
+Users will usually provide journalist and/or outlet names, the target company or brand, and the purpose and context of the research. Use these details to assess fit and recommend an engagement approach. For longer lists, apply consistent evidence standards and compare priority. If missing information such as the target brand, market, or event context could change the conclusion, ask for it; meanwhile, complete independent work such as career history or outlet background and state the limits. Resolve identity ambiguity before combining information about people with similar names.
+
+## Research principles
+
+- Profile journalists and outlets separately. Do not treat an outlet's overall coverage as an individual journalist's position, or one journalist's articles as the position of the whole outlet.
+- Limit personal background to public professional information relevant to the work: employment history, role, beat, notable reporting, public interviews, or editorial responsibilities. Do not collect unrelated private-life details.
+- Prefer original outlet articles, author pages, editorial-team profiles, official media accounts, company annual reports, accredited audience measurement, and original interviews. Use third-party databases as leads and, where possible, verify important claims against primary sources.
+- Keep a link and publication date or measurement period for each key fact. State the research cutoff date. Search snippets and republished copies alone are not sufficient support for important claims.
+- Distinguish **verified facts**, **sample-based observations**, **inference/recommendation**, and **items to verify**. State the sample limits and do not infer a stable editorial stance from a small sample.
+- For audience data, state the metric, platform, audience geography or demographics, period, and source. Do not treat monthly unique visitors, visits, article views, social followers, video views, and actual event reach as interchangeable.
+- Do not invent roles, career history, articles, headlines, dates, quotations, audience figures, competitor relationships, risks, or editorial tendencies. If nothing is found, state the search scope and say “no verifiable record found in the reviewed sources”; do not claim that the person or outlet has “never covered” a topic.
+
+## Research and assessment
+
+1. **Journalist background:** Verify the journalist's current role, outlet, publicly documented prior roles, beat, notable reporting, and relevant public professional commentary. Summarize key career milestones chronologically. Select notable work that illustrates the beat, reporting approach, or editorial responsibility, and explain why it is representative.
+2. **Current outlet:** Describe the outlet's positioning, owner or parent group when reliably documented, key markets and languages, core coverage, channels, and social accounts. For each public account, provide its link, follower/subscriber metric, and lookup date. Mark figures as “not verified” when they are not publicly available or cannot be confirmed.
+3. **Audience and outlet importance:** Summarize audience composition and size only where sources provide them, including geography, age, or interests where available. Assess the outlet's influence in the target market and its relevance to the brand, audience, and communications objective. Rate importance as high, medium, low, or unverified only with an explanation. Separate outlet influence from fit for this specific activity; do not rate from a single traffic figure, a title, or an unverified self-description.
+4. **Company, brand, and competitor coverage:** Search separately for the company provided by the user (including company, group/subsidiary names, and common variants), its related brands/products, and key competitors. Keep company-level coverage distinct from brand/product coverage. For each relevant item, record the date, headline and original link, author, format, topic/angle, verifiable points, and relevance to the planned outreach. Attribute coverage to the journalist or outlet as appropriate. If there are many results, select recent and representative examples and state the period reviewed.
+5. **Pitch recommendations:** Suggest 2–4 specific story ideas grounded in the journalist's beat, the outlet's audience, and the user's context. For each, state the angle, why it fits, suggested format, evidence/materials the brand can provide, suitable spokesperson, likely questions, and the supporting facts needed for answers. If evidence is insufficient, identify the missing company facts, data, interviewees, or event details rather than inventing ideas to fill a quota.
+6. **Event fit and future relationship:** Assess how the journalist/outlet fits the event's audience, topic, format, timing, and news value. Recommend whether and how to invite them, with priority and constraints. Consider whether the relationship is best suited to a one-off invitation, ongoing story pitching, periodic data/technical briefings, or priority relationship management, and explain why. Do not imply that an editorial relationship guarantees coverage. End with 3–5 actionable next steps: preferred pitch/format, contact owner, materials to prepare, questions to anticipate, and follow-up relationship actions. For multiple journalists or outlets, explain invitation order or tiers.
+7. **Coverage of China-related topics for Chinese companies researching foreign media:** Include this only when the target is a Chinese company and the journalist/outlet is foreign. Review the journalist's and outlet's coverage separately, citing representative originals, specific wording or frames, and supporting facts. Discuss a recurring hostile or biased narrative only when multiple verifiable examples support that pattern. Do not label an outlet or journalist “anti-China” based solely on criticism of Chinese government policy, scrutiny of one Chinese company, negative coverage, or a single article. Distinguish reporting on government policy, company conduct, product issues, and Chinese people. If the sample is insufficient, say “cannot determine” and identify the missing examples.
+8. **Risks and items to verify:** Separate risks supported by sources that could affect the outreach or event from unconfirmed information that could change the recommendation. A journalist's questions, identification of product issues, or negative opinion is not by itself an improper risk; explain its concrete relevance to this engagement.
+
+## Output framework
+
+Start with a decision summary: fit and recommendation for this engagement, outlet importance, invitation priority, key evidence, and principal limitations. For multiple journalists/outlets, compare them first, then profile each. Use the seven sections below. Complete Section 7 only for the Chinese-company/foreign-media case above. Mark unsupported fields as “to verify.”
+
+### 1. Journalist background
+
+| Item | Information and assessment | Source/date |
+| --- | --- | --- |
+| Name and current role | | |
+| Current outlet/beat or section | | |
+| Previous professional roles | | |
+| Reporting beats and recurring topics | | |
+| Notable reporting/public interviews | | |
+| Journalist importance and rationale | | |
+
+### 2. Current outlet
+
+| Item | Information and assessment | Source/date |
+| --- | --- | --- |
+| Positioning and parent group | | |
+| Key markets and languages | | |
+| Main coverage and channels | | |
+| Audience profile | | |
+| Audience size and measurement basis | | |
+| Social accounts and follower/subscriber figures | | |
+| Outlet importance and rationale | | |
+
+List each public social account with its platform, account link, metric, and lookup date. Do not estimate audience profile, follower counts, or traffic where reliable public data is unavailable.
+
+### 3. Pitch recommendations for the journalist and outlet
+
+Provide 2–4 story ideas. Each should include: **story and angle; why it suits the journalist/outlet; suggested format; evidence/materials available; suitable brand spokesperson; likely questions and the facts needed to answer them**. If the information is insufficient, list the gaps instead of inventing a pitch.
+
+### 4. Fit with the event and recommendations
+
+Assess the match between the topic, audience, event format, timing, news value, and journalist/outlet. Recommend whether to invite them, with priority and rationale; indicate whether an on-site interview, test drive/review, advance pitch, background briefing, or ongoing story development is the best fit. Recommend future engagement methods and cadence, while making clear that editorial independence and coverage outcomes remain with the outlet. End with 3–5 actionable steps covering the preferred pitch/format, contact owner, materials, anticipated questions, and follow-up. For a list, state the invitation order or tiering logic.
+
+### 5. Coverage of the supplied company, target brand, and industry competitors
+
+| Date | Outlet/journalist | Subject (company/brand or product/competitor) | Headline and original link | Topic/format/angle | Relevance to this outreach |
+| --- | --- | --- | --- | --- | --- |
+
+Separate coverage of the company, target brand/product, and competitors. If the company, target brand, or competitors have not been identified, state that the corresponding search cannot yet be completed; do not substitute coverage of unrelated entities.
+
+### 6. Risks and items to verify
+
+List separately:
+
+- **Source-supported risks:** Evidence, date, and concrete relevance to the event or outreach.
+- **Items to verify:** Missing identity, audience data, coverage samples, event context, or other facts, and how confirming them could change the recommendation.
+
+### 7. Note: China-related coverage (only for Chinese companies researching foreign media)
+
+| Subject | Date | Headline and original link | Topic/frame and specific wording | Evidence and limits of assessment |
+| --- | --- | --- | --- | --- |
+
+Assess the journalist's and outlet's samples separately. Discuss a recurring bias only when supported by multiple verifiable examples. Distinguish factual reporting, reasonable scrutiny, policy criticism, criticism of a company, and generalized hostility toward Chinese people. If the sample is insufficient, explicitly state “cannot determine.”
