@@ -1,0 +1,4 @@
+interface:
+  display_name: "PR KOL 背调"
+  short_description: "基于证据评估KOL受众匹配、内容表现、合作模式与品牌风险"
+  default_prompt: "Use $pr-kol-background to research this creator's audience, content fit, collaboration history, and brand-safety risks."
