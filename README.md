@@ -20,11 +20,12 @@ Copy the skill folder into your Codex skills directory: / 将 Skill 文件夹复
 
 ```bash
 cp -R skills/pr-media-background ~/.codex/skills/
+cp -R skills/pr-kol-background ~/.codex/skills/
 ```
 
-Then start a new Codex conversation or invoke `$pr-media-background`.
+Then start a new Codex conversation or invoke `$pr-media-background` or `$pr-kol-background`.
 
-完成后，重新开启一个 Codex 对话，或在对话中调用 `$pr-media-background`。
+完成后，重新开启一个 Codex 对话，或调用 `$pr-media-background` 或 `$pr-kol-background`。
 
 ## Add another skill / 添加其他 Skill
 
