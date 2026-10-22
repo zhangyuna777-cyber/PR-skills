@@ -10,6 +10,10 @@ A collection of reusable Codex skills for public relations and communications wo
 
   面向 PR 媒体邀约与传播策划的记者及媒体背调，涵盖记者职业背景、媒体受众与重要程度、公司/品牌/竞品报道、约稿选题、活动适配度、风险与待核实信息。不用于 KOL 或网红筛选。
 
+- [pr-kol-background](skills/pr-kol-background/SKILL.md): evidence-based KOL research across platforms, covering follower footprint, audience quality and fit, content verticals, performance evidence, past partnerships, recommended cooperation formats, and brand-safety risks. Tailors recommendations to the stated campaign purpose.
+
+  面向 PR 与品牌合作的 KOL 全平台背调，涵盖粉丝规模、受众质量与匹配度、内容垂类、效果数据、历史合作、合作形式建议及品牌安全风险，并结合用户提供的活动目的给出建议。
+
 ## Install a skill / 安装 Skill
 
 Copy the skill folder into your Codex skills directory: / 将 Skill 文件夹复制到 Codex 的 skills 目录：
