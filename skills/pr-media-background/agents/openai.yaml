@@ -1,0 +1,6 @@
+interface:
+  display_name: "PR 媒体背调"
+  short_description: "为邀约、试驾与采访提供证据化媒体判断"
+  default_prompt: "Use $pr-media-background to assess this media outlet or journalist for a PR engagement: [name, country, brand/project, purpose]."
+policy:
+  allow_implicit_invocation: true
